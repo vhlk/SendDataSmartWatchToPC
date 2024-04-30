@@ -1,2 +1,1 @@
-pysimplegui
-tkinter
+PySimpleGUI==4.59.0
